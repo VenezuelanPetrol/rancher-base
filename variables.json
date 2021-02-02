@@ -1,0 +1,12 @@
+{
+    "vcenter_server":"NU_Datacenter",
+    "username":"ranchersvc@vsphere.local",
+    "password":"g!hj7ho1ljRB",
+    "datastore":"DEVOPS-DS",
+    "folder": "/NU_Datacenter/vm/DEVOPS",
+    "host":"nu-esxi-7.onecloud.ma",
+    "cluster": "",
+    "network": "GFI-VPN_19-RANCHER",
+    "ssh_username": "ubuntu",
+    "ssh_password": "ubuntu"
+}
